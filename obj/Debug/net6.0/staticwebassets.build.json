@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "c1ROhLdxrVfdi6R/2MsGmJaAUuuJZWgT7NR/XFud3xM=",
+  "Source": "MyStoreApi",
+  "BasePath": "_content/MyStoreApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyStoreApi\\wwwroot",
+      "Source": "MyStoreApi",
+      "ContentRoot": "D:\\Courses\\ECommerceForConcentrix\\MyStoreApi\\wwwroot\\",
+      "BasePath": "_content/MyStoreApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
