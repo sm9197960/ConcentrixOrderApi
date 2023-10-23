@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c1ROhLdxrVfdi6R/2MsGmJaAUuuJZWgT7NR/XFud3xM=",
+  "Hash": "q5WfD4Pz8G6LrfvOOh6iipLc3EZMrPeG8dgICNi+kg8=",
   "Source": "MyStoreApi",
   "BasePath": "_content/MyStoreApi",
   "Mode": "Default",
@@ -15,5 +15,23 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "D:\\Courses\\ECommerceForConcentrix\\MyStoreApi\\wwwroot\\images\\products\\Iphone.jpg",
+      "SourceId": "MyStoreApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Courses\\ECommerceForConcentrix\\MyStoreApi\\wwwroot\\",
+      "BasePath": "_content/MyStoreApi",
+      "RelativePath": "images/products/Iphone.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\Iphone.jpg"
+    }
+  ]
 }

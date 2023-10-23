@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Courses\\ECommerceForConcentrix\\MyStoreApi\\wwwroot\\images\\products\\Iphone.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\Iphone.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MyStoreApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MyStoreApi.props",
+      "PackagePath": "build\\MyStoreApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MyStoreApi.props",
+      "PackagePath": "buildMultiTargeting\\MyStoreApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MyStoreApi.props",
+      "PackagePath": "buildTransitive\\MyStoreApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

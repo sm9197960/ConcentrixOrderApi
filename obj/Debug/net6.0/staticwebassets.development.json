@@ -1,1 +1,1 @@
-{"ContentRoots":["D:\\Courses\\ECommerceForConcentrix\\MyStoreApi\\wwwroot\\"],"Root":{"Children":null,"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
+{"ContentRoots":["D:\\Courses\\ECommerceForConcentrix\\MyStoreApi\\wwwroot\\"],"Root":{"Children":{"images":{"Children":{"products":{"Children":{"Iphone.jpg":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"images/products/Iphone.jpg"},"Patterns":null}},"Asset":null,"Patterns":null}},"Asset":null,"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
